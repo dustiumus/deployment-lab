@@ -4,7 +4,7 @@ body {
     padding: 1rem;
     max-width: 500px;
     margin: 2rem auto;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
 
 img {
@@ -13,14 +13,12 @@ img {
 }
 
 h1 {
-    font-family: cursive;
     font-size: larger;
     padding-right: 130px;
     padding-left: 130px;
 }
 
 h2 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: medium;
     padding-left: 75px;
     padding-right: 75px;
