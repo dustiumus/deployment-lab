@@ -11,3 +11,17 @@ img {
     max-width: 400px;
     border-color: black dashed;
 }
+
+h1 {
+    font-family: cursive;
+    font-size: larger;
+    padding-right: 130px;
+    padding-left: 130px;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    padding-left: 75px;
+    padding-right: 75px;
+}
