@@ -8,6 +8,8 @@ app.get('/', function(req, res){
 
 });
 
+app.use('/static', express.static(path.join(__dirname, '../index.css')));
+
 const port = process.env.PORT || 5050;
 
 app.listen(port, function(){
