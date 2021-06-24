@@ -24,3 +24,24 @@ h2 {
     padding-right: 75px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.Bio {
+    color: red;
+    font-size: xx-large;
+    border-radius: 100px;   
+}
+
+.bioText {
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Favs {
+    color: red;
+    font-size: xx-large;
+}
+
+.favsText {
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
